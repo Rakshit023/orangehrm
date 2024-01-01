@@ -29,7 +29,7 @@
 
 ## Allure Report
 
-![Allure Report Overview](/images/overview.png "Allure Report Overview")
+![Allure Report Overview](https://github.com/Rakshit023/orangehrm/blob/main/overview.png)
 ![Allure Report Suites](https://github.com/Rakshit023/orangehrm/blob/main/suites.png)
 ![Allure Report Overview](/images/graphs.png "Allure Report Graph")
 
