@@ -30,7 +30,7 @@
 ## Allure Report
 
 ![Allure Report Overview](/images/overview.png "Allure Report Overview")
-![Allure Report Suites](/images/suites.png "Allure Report Suites")
+![Allure Report Suites](https://github.com/Rakshit023/orangehrm/blob/main/suites.png)
 ![Allure Report Overview](/images/graphs.png "Allure Report Graph")
 
 # Selenium Test case with PageObject Model Pattern.
